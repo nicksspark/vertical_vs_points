@@ -1,0 +1,443 @@
+,PLAYER_ID,PTS,GP
+0,"0    2403
+Name: PLAYER_ID, dtype: int64",15.6,965
+1,"0    203500
+Name: PLAYER_ID, dtype: int64",12.8,588
+2,"0    1628389
+Name: PLAYER_ID, dtype: int64",16.3,287
+3,"0    200746
+Name: PLAYER_ID, dtype: int64",20.4,1029
+4,"0    1628960
+Name: PLAYER_ID, dtype: int64",16.1,126
+5,"0    1628386
+Name: PLAYER_ID, dtype: int64",15.1,285
+6,"0    202329
+Name: PLAYER_ID, dtype: int64",10.9,711
+7,"0    1626147
+Name: PLAYER_ID, dtype: int64",14.4,226
+8,"0    2546
+Name: PLAYER_ID, dtype: int64",23.6,1191
+9,"0    2772
+Name: PLAYER_ID, dtype: int64",12.7,1094
+10,"0    201571
+Name: PLAYER_ID, dtype: int64",14.7,921
+11,"0    1628407
+Name: PLAYER_ID, dtype: int64",13.5,207
+12,"0    203084
+Name: PLAYER_ID, dtype: int64",15.8,670
+13,"0    203115
+Name: PLAYER_ID, dtype: int64",16.1,552
+14,"0    1628966
+Name: PLAYER_ID, dtype: int64",12.5,104
+15,"0    1629647
+Name: PLAYER_ID, dtype: int64",13.9,116
+16,"0    203078
+Name: PLAYER_ID, dtype: int64",22.8,605
+17,"0    1628395
+Name: PLAYER_ID, dtype: int64",11.0,160
+18,"0    1627761
+Name: PLAYER_ID, dtype: int64",11.4,240
+19,"0    203920
+Name: PLAYER_ID, dtype: int64",10.9,207
+20,"0    1626164
+Name: PLAYER_ID, dtype: int64",24.6,409
+21,"0    202340
+Name: PLAYER_ID, dtype: int64",14.8,598
+22,"0    1628396
+Name: PLAYER_ID, dtype: int64",15.6,112
+23,"0    1627763
+Name: PLAYER_ID, dtype: int64",18.2,297
+24,"0    1628415
+Name: PLAYER_ID, dtype: int64",17.8,240
+25,"0    1628971
+Name: PLAYER_ID, dtype: int64",11.2,197
+26,"0    1628972
+Name: PLAYER_ID, dtype: int64",13.3,155
+27,"0    1628973
+Name: PLAYER_ID, dtype: int64",16.7,198
+28,"0    1628418
+Name: PLAYER_ID, dtype: int64",18.5,143
+29,"0    203493
+Name: PLAYER_ID, dtype: int64",12.8,366
+30,"0    203504
+Name: PLAYER_ID, dtype: int64",16.5,456
+31,"0    202692
+Name: PLAYER_ID, dtype: int64",17.0,544
+32,"0    202710
+Name: PLAYER_ID, dtype: int64",18.9,633
+33,"0    203484
+Name: PLAYER_ID, dtype: int64",14.1,606
+34,"0    1628975
+Name: PLAYER_ID, dtype: int64",11.4,157
+35,"0    203487
+Name: PLAYER_ID, dtype: int64",14.6,391
+36,"0    2199
+Name: PLAYER_ID, dtype: int64",10.8,1160
+37,"0    1627737
+Name: PLAYER_ID, dtype: int64",14.8,258
+38,"0    1629634
+Name: PLAYER_ID, dtype: int64",17.4,117
+39,"0    203903
+Name: PLAYER_ID, dtype: int64",20.4,521
+40,"0    1628381
+Name: PLAYER_ID, dtype: int64",20.9,239
+41,"0    201144
+Name: PLAYER_ID, dtype: int64",16.7,886
+42,"0    1626192
+Name: PLAYER_ID, dtype: int64",10.9,352
+43,"0    1626188
+Name: PLAYER_ID, dtype: int64",16.3,188
+44,"0    202326
+Name: PLAYER_ID, dtype: int64",23.7,606
+45,"0    203496
+Name: PLAYER_ID, dtype: int64",14.3,466
+46,"0    203459
+Name: PLAYER_ID, dtype: int64",13.6,381
+47,"0    203109
+Name: PLAYER_ID, dtype: int64",13.9,668
+48,"0    201939
+Name: PLAYER_ID, dtype: int64",25.4,762
+49,"0    202334
+Name: PLAYER_ID, dtype: int64",11.3,691
+50,"0    1629056
+Name: PLAYER_ID, dtype: int64",17.0,133
+51,"0    201942
+Name: PLAYER_ID, dtype: int64",21.3,881
+52,"0    203473
+Name: PLAYER_ID, dtype: int64",12.8,410
+53,"0    1628978
+Name: PLAYER_ID, dtype: int64",13.7,159
+54,"0    1628977
+Name: PLAYER_ID, dtype: int64",15.1,149
+55,"0    1627767
+Name: PLAYER_ID, dtype: int64",15.8,180
+56,"0    1628977
+Name: PLAYER_ID, dtype: int64",15.1,149
+57,"0    1629652
+Name: PLAYER_ID, dtype: int64",14.8,88
+58,"0    1628422
+Name: PLAYER_ID, dtype: int64",13.6,211
+59,"0    1628408
+Name: PLAYER_ID, dtype: int64",13.3,87
+60,"0    203083
+Name: PLAYER_ID, dtype: int64",17.0,645
+61,"0    201162
+Name: PLAYER_ID, dtype: int64",11.9,904
+62,"0    201142
+Name: PLAYER_ID, dtype: int64",26.5,884
+63,"0    201961
+Name: PLAYER_ID, dtype: int64",13.9,727
+64,"0    203516
+Name: PLAYER_ID, dtype: int64",11.7,388
+65,"0    203957
+Name: PLAYER_ID, dtype: int64",11.0,245
+66,"0    202324
+Name: PLAYER_ID, dtype: int64",15.8,751
+67,"0    1628390
+Name: PLAYER_ID, dtype: int64",8.3,204
+68,"0    1628981
+Name: PLAYER_ID, dtype: int64",11.2,89
+69,"0    1628981
+Name: PLAYER_ID, dtype: int64",11.2,89
+70,"0    1627827
+Name: PLAYER_ID, dtype: int64",10.4,314
+71,"0    1629655
+Name: PLAYER_ID, dtype: int64",15.4,97
+72,"0    200752
+Name: PLAYER_ID, dtype: int64",18.6,1009
+73,"0    201959
+Name: PLAYER_ID, dtype: int64",13.5,844
+74,"0    1628385
+Name: PLAYER_ID, dtype: int64",16.3,142
+75,"0    203497
+Name: PLAYER_ID, dtype: int64",14.6,545
+76,"0    201569
+Name: PLAYER_ID, dtype: int64",18.3,692
+77,"0    203932
+Name: PLAYER_ID, dtype: int64",16.1,453
+78,"0    1626203
+Name: PLAYER_ID, dtype: int64",9.5,180
+79,"0    1628984
+Name: PLAYER_ID, dtype: int64",17.2,164
+80,"0    101123
+Name: PLAYER_ID, dtype: int64",17.7,658
+81,"0    201145
+Name: PLAYER_ID, dtype: int64",15.8,976
+82,"0    201980
+Name: PLAYER_ID, dtype: int64",12.6,757
+83,"0    203110
+Name: PLAYER_ID, dtype: int64",11.1,639
+84,"0    201933
+Name: PLAYER_ID, dtype: int64",22.0,668
+85,"0    203501
+Name: PLAYER_ID, dtype: int64",18.6,544
+86,"0    201935
+Name: PLAYER_ID, dtype: int64",26.3,877
+87,"0    203090
+Name: PLAYER_ID, dtype: int64",11.1,574
+88,"0    202699
+Name: PLAYER_ID, dtype: int64",18.9,680
+89,"0    203925
+Name: PLAYER_ID, dtype: int64",15.7,400
+90,"0    1628404
+Name: PLAYER_ID, dtype: int64",12.1,242
+91,"0    1628404
+Name: PLAYER_ID, dtype: int64",12.1,242
+92,"0    2617
+Name: PLAYER_ID, dtype: int64",10.9,859
+93,"0    1629637
+Name: PLAYER_ID, dtype: int64",16.2,124
+94,"0    202330
+Name: PLAYER_ID, dtype: int64",18.1,685
+95,"0    201588
+Name: PLAYER_ID, dtype: int64",14.4,815
+96,"0    203524
+Name: PLAYER_ID, dtype: int64",9.3,435
+97,"0    201950
+Name: PLAYER_ID, dtype: int64",17.4,772
+98,"0    1628988
+Name: PLAYER_ID, dtype: int64",14.6,182
+99,"0    1626178
+Name: PLAYER_ID, dtype: int64",14.7,305
+100,"0    1626158
+Name: PLAYER_ID, dtype: int64",16.5,331
+101,"0    203918
+Name: PLAYER_ID, dtype: int64",15.8,396
+102,"0    201143
+Name: PLAYER_ID, dtype: int64",15.5,881
+103,"0    2730
+Name: PLAYER_ID, dtype: int64",17.9,1182
+104,"0    1628989
+Name: PLAYER_ID, dtype: int64",13.5,200
+105,"0    2738
+Name: PLAYER_ID, dtype: int64",12.8,1192
+106,"0    101141
+Name: PLAYER_ID, dtype: int64",15.9,825
+107,"0    1628411
+Name: PLAYER_ID, dtype: int64",9.3,223
+108,"0    1628402
+Name: PLAYER_ID, dtype: int64",16.7,160
+109,"0    1628382
+Name: PLAYER_ID, dtype: int64",12.5,248
+110,"0    201949
+Name: PLAYER_ID, dtype: int64",13.8,685
+111,"0    1629661
+Name: PLAYER_ID, dtype: int64",14.4,117
+112,"0    1627745
+Name: PLAYER_ID, dtype: int64",11.8,143
+113,"0    1626145
+Name: PLAYER_ID, dtype: int64",11.5,382
+114,"0    201599
+Name: PLAYER_ID, dtype: int64",12.3,932
+115,"0    202709
+Name: PLAYER_ID, dtype: int64",11.5,663
+116,"0    202683
+Name: PLAYER_ID, dtype: int64",18.9,713
+117,"0    203077
+Name: PLAYER_ID, dtype: int64",12.3,446
+118,"0    202688
+Name: PLAYER_ID, dtype: int64",17.2,446
+119,"0    2594
+Name: PLAYER_ID, dtype: int64",13.8,1232
+120,"0    1628398
+Name: PLAYER_ID, dtype: int64",18.5,276
+121,"0    203897
+Name: PLAYER_ID, dtype: int64",21.9,411
+122,"0    203087
+Name: PLAYER_ID, dtype: int64",17.7,517
+123,"0    1627774
+Name: PLAYER_ID, dtype: int64",13.7,209
+124,"0    1628388
+Name: PLAYER_ID, dtype: int64",13.9,146
+125,"0    202695
+Name: PLAYER_ID, dtype: int64",22.1,576
+126,"0    203086
+Name: PLAYER_ID, dtype: int64",12.6,447
+127,"0    203081
+Name: PLAYER_ID, dtype: int64",24.4,682
+128,"0    1629642
+Name: PLAYER_ID, dtype: int64",11.6,96
+129,"0    201572
+Name: PLAYER_ID, dtype: int64",19.6,855
+130,"0    201567
+Name: PLAYER_ID, dtype: int64",20.4,738
+131,"0    1627748
+Name: PLAYER_ID, dtype: int64",12.1,263
+132,"0    1629611
+Name: PLAYER_ID, dtype: int64",12.6,108
+133,"0    1628998
+Name: PLAYER_ID, dtype: int64",9.1,100
+134,"0    1628998
+Name: PLAYER_ID, dtype: int64",9.1,100
+135,"0    1628412
+Name: PLAYER_ID, dtype: int64",15.5,103
+136,"0    1627775
+Name: PLAYER_ID, dtype: int64",8.1,199
+137,"0    203468
+Name: PLAYER_ID, dtype: int64",21.8,528
+138,"0    204456
+Name: PLAYER_ID, dtype: int64",11.0,454
+139,"0    203926
+Name: PLAYER_ID, dtype: int64",15.7,476
+140,"0    201580
+Name: PLAYER_ID, dtype: int64",16.5,747
+141,"0    203463
+Name: PLAYER_ID, dtype: int64",14.0,492
+142,"0    203895
+Name: PLAYER_ID, dtype: int64",17.9,123
+143,"0    1629001
+Name: PLAYER_ID, dtype: int64",13.3,162
+144,"0    1629002
+Name: PLAYER_ID, dtype: int64",16.3,83
+145,"0    203114
+Name: PLAYER_ID, dtype: int64",19.0,585
+146,"0    203121
+Name: PLAYER_ID, dtype: int64",10.7,271
+147,"0    201988
+Name: PLAYER_ID, dtype: int64",16.2,739
+148,"0    200794
+Name: PLAYER_ID, dtype: int64",17.2,1052
+149,"0    1629003
+Name: PLAYER_ID, dtype: int64",18.2,123
+150,"0    1628378
+Name: PLAYER_ID, dtype: int64",25.0,278
+151,"0    202734
+Name: PLAYER_ID, dtype: int64",13.6,598
+152,"0    1628420
+Name: PLAYER_ID, dtype: int64",14.9,205
+153,"0    203488
+Name: PLAYER_ID, dtype: int64",13.7,389
+154,"0    1629004
+Name: PLAYER_ID, dtype: int64",14.2,164
+155,"0    1629004
+Name: PLAYER_ID, dtype: int64",14.2,164
+156,"0    203894
+Name: PLAYER_ID, dtype: int64",14.6,345
+157,"0    1627777
+Name: PLAYER_ID, dtype: int64",15.3,229
+158,"0    203124
+Name: PLAYER_ID, dtype: int64",13.8,472
+159,"0    1628400
+Name: PLAYER_ID, dtype: int64",8.5,254
+160,"0    1629006
+Name: PLAYER_ID, dtype: int64",11.3,195
+161,"0    203506
+Name: PLAYER_ID, dtype: int64",19.1,454
+162,"0    203482
+Name: PLAYER_ID, dtype: int64",16.5,570
+163,"0    1626162
+Name: PLAYER_ID, dtype: int64",16.6,403
+164,"0    202718
+Name: PLAYER_ID, dtype: int64",15.1,440
+165,"0    1629672
+Name: PLAYER_ID, dtype: int64",18.7,100
+166,"0    202335
+Name: PLAYER_ID, dtype: int64",11.5,719
+167,"0    101108
+Name: PLAYER_ID, dtype: int64",19.0,1090
+168,"0    203901
+Name: PLAYER_ID, dtype: int64",13.7,450
+169,"0    203486
+Name: PLAYER_ID, dtype: int64",13.9,588
+170,"0    1629673
+Name: PLAYER_ID, dtype: int64",17.7,108
+171,"0    203490
+Name: PLAYER_ID, dtype: int64",14.9,441
+172,"0    1626171
+Name: PLAYER_ID, dtype: int64",18.3,381
+173,"0    203939
+Name: PLAYER_ID, dtype: int64",14.6,429
+174,"0    1626181
+Name: PLAYER_ID, dtype: int64",17.7,376
+175,"0    1627752
+Name: PLAYER_ID, dtype: int64",15.8,301
+176,"0    203944
+Name: PLAYER_ID, dtype: int64",20.5,446
+177,"0    200755
+Name: PLAYER_ID, dtype: int64",18.1,940
+178,"0    1629675
+Name: PLAYER_ID, dtype: int64",20.6,100
+179,"0    203085
+Name: PLAYER_ID, dtype: int64",13.4,588
+180,"0    203460
+Name: PLAYER_ID, dtype: int64",7.3,307
+181,"0    203922
+Name: PLAYER_ID, dtype: int64",12.3,304
+182,"0    201565
+Name: PLAYER_ID, dtype: int64",20.7,646
+183,"0    203082
+Name: PLAYER_ID, dtype: int64",16.4,607
+184,"0    1626179
+Name: PLAYER_ID, dtype: int64",16.7,404
+185,"0    203471
+Name: PLAYER_ID, dtype: int64",19.6,557
+186,"0    203118
+Name: PLAYER_ID, dtype: int64",14.6,555
+187,"0    1629013
+Name: PLAYER_ID, dtype: int64",13.8,193
+188,"0    202697
+Name: PLAYER_ID, dtype: int64",10.4,461
+189,"0    1627783
+Name: PLAYER_ID, dtype: int64",18.5,332
+190,"0    1629014
+Name: PLAYER_ID, dtype: int64",15.4,154
+191,"0    203935
+Name: PLAYER_ID, dtype: int64",12.5,449
+192,"0    203503
+Name: PLAYER_ID, dtype: int64",10.2,548
+193,"0    1629016
+Name: PLAYER_ID, dtype: int64",13.7,95
+194,"0    201952
+Name: PLAYER_ID, dtype: int64",16.3,826
+195,"0    202738
+Name: PLAYER_ID, dtype: int64",22.5,528
+196,"0    202684
+Name: PLAYER_ID, dtype: int64",12.1,673
+197,"0    202691
+Name: PLAYER_ID, dtype: int64",21.2,615
+198,"0    201229
+Name: PLAYER_ID, dtype: int64",11.3,730
+199,"0    1629018
+Name: PLAYER_ID, dtype: int64",16.3,134
+200,"0    1629019
+Name: PLAYER_ID, dtype: int64",17.5,88
+201,"0    202323
+Name: PLAYER_ID, dtype: int64",13.0,705
+202,"0    1627756
+Name: PLAYER_ID, dtype: int64",13.5,232
+203,"0    203943
+Name: PLAYER_ID, dtype: int64",10.5,339
+204,"0    202696
+Name: PLAYER_ID, dtype: int64",19.8,668
+205,"0    1629021
+Name: PLAYER_ID, dtype: int64",16.4,133
+206,"0    1629021
+Name: PLAYER_ID, dtype: int64",16.4,133
+207,"0    202689
+Name: PLAYER_ID, dtype: int64",21.2,704
+208,"0    1629022
+Name: PLAYER_ID, dtype: int64",15.1,138
+209,"0    202322
+Name: PLAYER_ID, dtype: int64",19.3,613
+210,"0    203933
+Name: PLAYER_ID, dtype: int64",19.4,332
+211,"0    1629023
+Name: PLAYER_ID, dtype: int64",14.9,122
+212,"0    201566
+Name: PLAYER_ID, dtype: int64",24.0,943
+213,"0    1628401
+Name: PLAYER_ID, dtype: int64",15.9,188
+214,"0    202355
+Name: PLAYER_ID, dtype: int64",18.5,446
+215,"0    101107
+Name: PLAYER_ID, dtype: int64",13.1,1072
+216,"0    1629026
+Name: PLAYER_ID, dtype: int64",10.2,151
+217,"0    1629684
+Name: PLAYER_ID, dtype: int64",8.8,132
+218,"0    1626153
+Name: PLAYER_ID, dtype: int64",13.2,334
+219,"0    201152
+Name: PLAYER_ID, dtype: int64",15.7,1033
+220,"0    203469
+Name: PLAYER_ID, dtype: int64",13.8,467
